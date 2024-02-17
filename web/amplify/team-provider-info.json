@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-slobodianinfo-dev-231343-authRole",
+      "UnauthRoleArn": "arn:aws:iam::973207504726:role/amplify-slobodianinfo-dev-231343-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::973207504726:role/amplify-slobodianinfo-dev-231343-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-slobodianinfo-dev-231343-deployment",
+      "UnauthRoleName": "amplify-slobodianinfo-dev-231343-unauthRole",
+      "StackName": "amplify-slobodianinfo-dev-231343",
+      "StackId": "arn:aws:cloudformation:eu-west-1:973207504726:stack/amplify-slobodianinfo-dev-231343/6f39cb80-cdd9-11ee-8682-0ac153d960d9",
+      "AmplifyAppId": "d359r0fkep8wvj"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d359r0fkep8wvj",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
